@@ -1,0 +1,8 @@
+[{"englishName":"Jupiter","gravity":24.79,"discoveryDate":"","vol":1431280000000000.0,"mass":1.89819e+27},
+{"englishName":"Saturn","gravity":10.44,"discoveryDate":"","vol":827130000000000.0,"mass":5.68336e+26},
+{"englishName":"Uranus","gravity":8.87,"discoveryDate":"13\/03\/1781","vol":68330000000000.0,"mass":8.68127e+25},
+{"englishName":"Neptune","gravity":11.15,"discoveryDate":"23\/09\/1846","vol":62540000000000.0,"mass":1.02413e+26},
+{"englishName":"Earth","gravity":9.8,"discoveryDate":"","vol":1083210000000.0,"mass":5.97237e+24},
+{"englishName":"Mars","gravity":3.71,"discoveryDate":"","vol":163180000000.0,"mass":6.41712e+23},
+{"englishName":"Venus","gravity":8.87,"discoveryDate":"","vol":928430000000.0,"mass":4.86747e+24},
+{"englishName":"Mercury","gravity":3.7,"discoveryDate":"","vol":60830000000.0,"mass":3.30114e+23}]
